@@ -1,0 +1,1 @@
+Project in which I try to devide whole rail work into train drivers, which are assigned to specific depos. In the future I will include the vehicle scheduling, qualifications and other parameters to solve this task.

@@ -1,0 +1,22 @@
+vehicle_circulation_id,sequence,train_id,need_driver,after_power
+VC1,1,T1,peron,yes,yes
+VC1,2,T5,peron,yes,yes
+VC1,3,T3,
+VC1,4,T4,
+VC1,5,T7,
+
+
+VC2,1,T2
+VC2,2,T11
+VC2,3,T8
+
+VC3,1,T6
+VC3,2,T9
+
+VC4,1,T12
+VC4,2,T10
+
+pierwszy obieg: t1,t5,t3,t4,t7
+drugi obieg: t2, t11, t8,
+trzeci obieg:  t6, t9
+obieg czwarty: t12, t10
